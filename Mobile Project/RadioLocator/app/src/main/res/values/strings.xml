@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Radio Locator</string>
+    <string name="locate_station">Locate Stations</string>
+    <string name="itemTitleDelete">delete</string>
+    <string name="itemTitlefavourite">favourite</string>
+    <string name="itemTitleAdd">add</string>
+</resources>

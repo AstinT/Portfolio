@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".StationDetailActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Station ID:"
+        android:id="@+id/tvStationID"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="20dp"
+        android:textColor="#020202"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvStationCallsign"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/tvStationID"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="Station Callsign:"
+        android:textSize="20dp"
+        android:textColor="#020202"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Station Genre:"
+        android:id="@+id/tvStationGenre"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/tvStationCallsign"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="20dp"
+        android:textColor="#020202"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Station Dial:"
+        android:id="@+id/tvStationDial"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/tvStationBand"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="20dp"
+        android:textColor="#020202"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Station Band:"
+        android:id="@+id/tvStationBand"
+        android:layout_below="@+id/tvStationGenre"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="25dp"
+        android:textSize="20dp"
+        android:textColor="#020202"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvIDValue"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/tvStationCallsign"
+        android:layout_toEndOf="@+id/tvStationCallsign"
+        android:layout_marginLeft="27dp"
+        android:layout_marginStart="27dp"
+        android:textColor="#050505"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvCallsignValue"
+        android:layout_alignTop="@+id/tvStationCallsign"
+        android:layout_alignLeft="@+id/tvIDValue"
+        android:layout_alignStart="@+id/tvIDValue"
+        android:textColor="#050505"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvGenreValue"
+        android:layout_alignTop="@+id/tvStationGenre"
+        android:layout_alignLeft="@+id/tvCallsignValue"
+        android:layout_alignStart="@+id/tvCallsignValue"
+        android:textColor="#050505"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvBandValue"
+        android:layout_alignTop="@+id/tvStationBand"
+        android:layout_alignLeft="@+id/tvGenreValue"
+        android:layout_alignStart="@+id/tvGenreValue"
+        android:textColor="#050505"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvDialValue"
+        android:layout_alignTop="@+id/tvStationDial"
+        android:layout_alignLeft="@+id/tvBandValue"
+        android:layout_alignStart="@+id/tvBandValue"
+        android:textColor="#050505"
+        android:textSize="20sp"/>
+</RelativeLayout>
