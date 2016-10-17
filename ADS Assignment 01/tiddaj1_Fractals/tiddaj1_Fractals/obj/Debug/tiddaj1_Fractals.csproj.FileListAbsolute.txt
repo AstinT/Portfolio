@@ -1,0 +1,9 @@
+C:\Users\Astin\Documents\GitHub\GitBucket\IN711tiddaj1\Assignment 1\tiddaj1_Fractals\tiddaj1_Fractals\bin\Debug\tiddaj1_Fractals.exe.config
+C:\Users\Astin\Documents\GitHub\GitBucket\IN711tiddaj1\Assignment 1\tiddaj1_Fractals\tiddaj1_Fractals\bin\Debug\tiddaj1_Fractals.exe
+C:\Users\Astin\Documents\GitHub\GitBucket\IN711tiddaj1\Assignment 1\tiddaj1_Fractals\tiddaj1_Fractals\bin\Debug\tiddaj1_Fractals.pdb
+C:\Users\Astin\Documents\GitHub\GitBucket\IN711tiddaj1\Assignment 1\tiddaj1_Fractals\tiddaj1_Fractals\obj\Debug\tiddaj1_Fractals.csprojResolveAssemblyReference.cache
+C:\Users\Astin\Documents\GitHub\GitBucket\IN711tiddaj1\Assignment 1\tiddaj1_Fractals\tiddaj1_Fractals\obj\Debug\tiddaj1_Fractals.Form1.resources
+C:\Users\Astin\Documents\GitHub\GitBucket\IN711tiddaj1\Assignment 1\tiddaj1_Fractals\tiddaj1_Fractals\obj\Debug\tiddaj1_Fractals.Properties.Resources.resources
+C:\Users\Astin\Documents\GitHub\GitBucket\IN711tiddaj1\Assignment 1\tiddaj1_Fractals\tiddaj1_Fractals\obj\Debug\tiddaj1_Fractals.csproj.GenerateResource.Cache
+C:\Users\Astin\Documents\GitHub\GitBucket\IN711tiddaj1\Assignment 1\tiddaj1_Fractals\tiddaj1_Fractals\obj\Debug\tiddaj1_Fractals.exe
+C:\Users\Astin\Documents\GitHub\GitBucket\IN711tiddaj1\Assignment 1\tiddaj1_Fractals\tiddaj1_Fractals\obj\Debug\tiddaj1_Fractals.pdb

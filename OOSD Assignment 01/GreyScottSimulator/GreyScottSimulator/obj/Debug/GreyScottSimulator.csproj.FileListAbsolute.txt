@@ -1,1 +1,10 @@
 C:\Users\Astin\Documents\GitHub\GitBucket\IN710tiddaj1\Assignment 1\GreyScottSimulator\GreyScottSimulator\bin\Debug\GreyScottSimulator.exe.config
+C:\Users\Astin\Documents\GitHub\Portfolio\OOSD Assignment 01\GreyScottSimulator\GreyScottSimulator\bin\Debug\GreyScottSimulator.exe.config
+C:\Users\Astin\Documents\GitHub\Portfolio\OOSD Assignment 01\GreyScottSimulator\GreyScottSimulator\bin\Debug\GreyScottSimulator.exe
+C:\Users\Astin\Documents\GitHub\Portfolio\OOSD Assignment 01\GreyScottSimulator\GreyScottSimulator\bin\Debug\GreyScottSimulator.pdb
+C:\Users\Astin\Documents\GitHub\Portfolio\OOSD Assignment 01\GreyScottSimulator\GreyScottSimulator\obj\Debug\GreyScottSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Astin\Documents\GitHub\Portfolio\OOSD Assignment 01\GreyScottSimulator\GreyScottSimulator\obj\Debug\GreyScottSimulator.Form1.resources
+C:\Users\Astin\Documents\GitHub\Portfolio\OOSD Assignment 01\GreyScottSimulator\GreyScottSimulator\obj\Debug\GreyScottSimulator.Properties.Resources.resources
+C:\Users\Astin\Documents\GitHub\Portfolio\OOSD Assignment 01\GreyScottSimulator\GreyScottSimulator\obj\Debug\GreyScottSimulator.csproj.GenerateResource.Cache
+C:\Users\Astin\Documents\GitHub\Portfolio\OOSD Assignment 01\GreyScottSimulator\GreyScottSimulator\obj\Debug\GreyScottSimulator.exe
+C:\Users\Astin\Documents\GitHub\Portfolio\OOSD Assignment 01\GreyScottSimulator\GreyScottSimulator\obj\Debug\GreyScottSimulator.pdb
